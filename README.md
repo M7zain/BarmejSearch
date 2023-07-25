@@ -7,6 +7,6 @@
 ## About this app 
 
 This is a simple search engine based on a Rapid API https://rapidapi.com/herosAPI/api/google-search74/ using React.js 
-
+subscribe to the API to get your REACT_APP_API_KEY and paste it into the .env file 
 
 
