@@ -1,4 +1,6 @@
 # Screenshots
+
+![image](https://github.com/M7zain/BarmejSearch/assets/99236670/bcc6679e-3cec-4bf3-8840-c76b4b5e611c)
 ![image](https://github.com/M7zain/BarmejSearch/assets/99236670/aa88b729-94e5-4d16-a5c8-7ad051fd039f)
 
 
